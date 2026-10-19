@@ -1,3 +1,6 @@
 envmbg/
-cookies.json
+tweets-data/
+token.txt
 .vscode/
+cookies.json
+__pycache__/
