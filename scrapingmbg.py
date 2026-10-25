@@ -1,3 +1,5 @@
+# Script tugas paling awal: menghitung kata kunci dari data tweet (tidak dipakai pada tahap cleaning)
+
 import csv
 
 # ganti dengan nama file CSV hasil tweet-harvest
